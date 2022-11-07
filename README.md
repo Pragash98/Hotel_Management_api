@@ -12,6 +12,7 @@ Welcome to HOTEL MANGEMENT this is an Angular App where you can book hotels.
 BACKEND URLS:
 ADMIN
 VIEW ADMIN - http://localhost:5000/api/admin/view_admin
+
 ADMIN VIEW BY ID - http://localhost:5000/api/admin/viewbyid/:id
 CREATE ADMIN - http://localhost:5000/api/admin/create_admin
 UDPDATE ADMIN BY ID - http://localhost:5000/api/admin/update_admin/:id
