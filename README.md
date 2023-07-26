@@ -1,10 +1,9 @@
-HOTEL MANGEMENT is a hotel booking app created on MEAN stack.
-Welcome to HOTEL MANGEMENT this is an Angular App where you can book hotels.
+Hotel Management System is a MEAN stack hotel booking website where you can book hotels.
 
- M = MONGODB
+ M - MONGODB
  
- E = EXPRESS
+ E - EXPRESS.JS
  
- A = ANGULAR
+ A - ANGULAR
  
- N = NODE.JS
+ N - NODE.JS
